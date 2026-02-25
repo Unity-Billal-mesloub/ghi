@@ -2,16 +2,16 @@
 
 GitHub Issues on the command line. Use your `$EDITOR`, not your browser.
 
-`ghi` was originally created by [Stephen Celis](https://github.com/stephencelis), and is now maintained by [drazisil](https://github.com/drazisil)'s fork [here](https://github.com/drazisil/ghi).
+`ghi` was originally created by [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub), and is now maintained by [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)'s fork [here](https://github.com/Unity-Billal-mesloub/ghi).
 
 ## Install
 
-Via brew ([latest stable release](https://github.com/stephencelis/ghi/releases/latest)):
+Via brew ([latest stable release](https://github.com/Unity-Billal-mesloub/ghi/releases/latest)):
 ``` sh
 brew install ghi
 ```
 
-Via gem ([latest stable release](https://github.com/stephencelis/ghi/releases/latest)):
+Via gem ([latest stable release](https://github.com/Unity-Billal-mesloub/ghi/releases/latest)):
 ``` sh
 gem install ghi
 ```
@@ -49,13 +49,13 @@ See 'ghi help <command>' for more information on a specific command.
 ```
 
 ## Source Tree
-You may get a strange error if you use SourceTree, similar to [#275](https://github.com/stephencelis/ghi/issues/275) and [#189](https://github.com/stephencelis/ghi/issues/189). You can follow the steps [here](https://github.com/stephencelis/ghi/issues/275#issuecomment-182895962) to resolve this.
+You may get a strange error if you use SourceTree, similar to [#275](https://github.com/Unity-Billal-mesloub/ghi/issues). You can follow the steps [here](https://github.com/Unity-Billal-mesloub/ghi/issues/) to resolve this.
 
 ## Contributing
 
-If you're looking for a place to start, there are [issues we need help with](https://github.com/stephencelis/ghi/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)!
+If you're looking for a place to start, there are [issues we need help with](https://github.com/Unity-Billal-mesloub/ghi/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)!
 
-Once you have an idea of what you want to do, there is a section in the [wiki](https://github.com/stephencelis/ghi/wiki/Contributing) to provide more detailed information but the basic steps are as follows.
+Once you have an idea of what you want to do, there is a section in the [wiki](https://github.com/Unity-Billal-mesloub/ghi/wiki/Contributing) to provide more detailed information but the basic steps are as follows.
 
 1. Fork this repo
 2. Do your work:
@@ -66,7 +66,7 @@ Once you have an idea of what you want to do, there is a section in the [wiki](h
 
 ## FAQ
 
-FAQs can be found in the [wiki](https://github.com/stephencelis/ghi/wiki/FAQ)
+FAQs can be found in the [wiki](https://github.com/Unity-Billal-mesloub/ghi/wiki/FAQ)
 
 ## Screenshot
 
